@@ -44,12 +44,12 @@ The **Multilingual Text-to-Speech Converter** is a user-friendly web application
 3. **Run the Docker Container:**
 
    ```sh
-   docker run -d -p 8501:8501 multilingual-tts-app
+   docker run -d -p 8505:8505 multilingual-tts-app
    ```
 
 4. **Access the Application:**
 
-   Open your browser and navigate to [http://localhost:8501](http://localhost:8501) to start using the Multilingual Text-to-Speech Converter.
+   Open your browser and navigate to [http://localhost:8505](http://localhost:8505) to start using the Multilingual Text-to-Speech Converter.
 
 ### **Acknowledgements**
 
@@ -101,12 +101,12 @@ O **Conversor de Texto para Fala Multilíngue** é uma aplicação web amigável
 3. **Execute o Contêiner Docker:**
 
    ```sh
-   docker run -d -p 8501:8501 conversor-tts-multilingue
+   docker run -d -p 8505:8505 conversor-tts-multilingue
    ```
 
 4. **Acesse a Aplicação:**
 
-   Abra o seu navegador e vá para [http://localhost:8501](http://localhost:8501) para começar a usar o Conversor de Texto para Fala Multilíngue.
+   Abra o seu navegador e vá para [http://localhost:8505](http://localhost:8505) para começar a usar o Conversor de Texto para Fala Multilíngue.
 
 ### **Agradecimentos**
 
